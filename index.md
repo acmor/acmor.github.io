@@ -11,3 +11,5 @@ Rincewind is a fictional character appearing in several of the Discworld novels 
 
 Rincewind said:
 > WIZZARD
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Rincewind.png/220px-Rincewind.png"/>
