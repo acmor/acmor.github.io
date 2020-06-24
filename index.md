@@ -9,3 +9,5 @@ Rincewind is a fictional character appearing in several of the Discworld novels 
 * In keeping with his nature, the role was as a physicist who specialized in the 'breakaway oxidation phenomena' of certain reactors—or, to put another way, what happens when those reactors caught fire (Terry Pratchett served as the press officer for several nuclear power plants before he became a full-time writer).
 * Rincewind speculated on the nature of science, expressing in The Colour of Magic the hope that there was something "better than magic" in the world, and speculated on the possibility of harnessing lightning, for which he was mocked by "sensible" Discworld citizens.
 
+Rincewind said:
+> WIZZARD
